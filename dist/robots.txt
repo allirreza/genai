@@ -1,0 +1,5 @@
+
+User-agent: *
+Allow: /
+
+Sitemap: https://codingascreating.github.io/sitemap-index.xml
